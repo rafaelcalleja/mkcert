@@ -1,2 +1,2 @@
 build:
-	docker build -t rafaecalleja/mkcert .
+	docker build -t rafaelcalleja/mkcert .
